@@ -1,0 +1,9 @@
+{
+   "account": "<snowflake-acct>",
+   "user": "YOURUSER",
+   "host": "<snowflake-acct>.snowflakecomputing.com",
+   "password": "lalala",
+   "database": "YOUR-DB",
+   "schema": "YOUR-SCHEMA",
+   "warehouse": "YOUR-WH"
+}
